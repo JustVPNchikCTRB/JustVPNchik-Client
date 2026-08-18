@@ -31,8 +31,8 @@
 
 | Файл | Описание |
 | :--- | :--- |
-| 🚀 **[JustVPNchik-Setup.exe]([https://github.com](https://github.com/JustVPNchikCTRB/JustVPNchik-Client/releases/download/v1.1.0-demo/JustVPNchik-Setup.exe))** | **Установщик** (создает ярлык на Рабочем столе и в Пуске). |
-| 📦 **[JustVPNchik-Portable.exe]([https://github.com](https://github.com/JustVPNchikCTRB/JustVPNchik-Client/releases/download/v1.1.0-demo/JustVPNchik-Portable.exe))** | **Портативная версия** (запуск в 1 клик без установки). |
+| 🚀 **[JustVPNchik-Setup.exe](https://github.com/JustVPNchikCTRB/JustVPNchik-Client/releases/download/v1.1.0-demo/JustVPNchik-Setup.exe)** | **Установщик** (создает ярлык на Рабочем столе и в Пуске). |
+| 📦 **[JustVPNchik-Portable.exe](https://github.com/JustVPNchikCTRB/JustVPNchik-Client/releases/download/v1.1.0-demo/JustVPNchik-Portable.exe)** | **Портативная версия** (запуск в 1 клик без установки). |
 
 ---
 
